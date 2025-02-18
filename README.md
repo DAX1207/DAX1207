@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Daksh Vyas</h1>
-<h3 align="center">A passionate frontend developer</h3>
+# 🚀 Welcome!
 
+> ## <p align="center"> My name is Daksh and I am currently looking for my first junior Dev role. </p>
+
+> ### <p align="center"> St. Lawerance College graduate, then self-learning, familiar with C#, Java, Javascript, SQL, React, HTML, C++, Mongo DB and Python</p>
+
+</br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/daksh-vyas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daksh-vyas/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/daksh-vyas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daksh-vyas/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
