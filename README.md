@@ -7,7 +7,7 @@
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/daksh-vyas/" target="blank"><img align="center" src="images/linked-in.svg" alt="https://www.linkedin.com/in/daksh-vyas/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/daksh-vyas/" target="blank"><img align="center" src="https://github.com/DAX1207/DAX1207/blob/main/images/linked-in.svg" alt="https://www.linkedin.com/in/daksh-vyas/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
